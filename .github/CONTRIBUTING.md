@@ -71,7 +71,7 @@ If you want to submit a pull request to fix an issue or add a feature, here's a 
 
 1. Navigate to the DFINITY public repository in a web browser.
 
-1. Click **Fork** to create a copy the repository associated with the issue you want to address under your GitHub account or organization name.
+1. Click **Fork** to create a copy of the repository associated with the issue you want to address under your GitHub account or organization name.
 
 1. Clone the repository to your local machine.
 
