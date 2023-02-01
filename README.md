@@ -1,6 +1,6 @@
 # ic-docutrack
 
-ic-docutrack is a proof of concept dapp to share documents in encrypted form with other people and track access control rights as well as confirmations to have seen them. It is being developed by DFINITY and Julius Baer.
+ic-docutrack is a proof a dapp to share documents in encrypted form with other people and track access control rights as well as confirmations to have seen them. It is being developed by DFINITY and Julius Baer.
 
 ## Documentation
 
