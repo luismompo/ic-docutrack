@@ -20,4 +20,4 @@ tbd
 
 ## Contribution
 
-See our [CONTRIBUTING](.github/CONTRIBUTING.md) to get started.
+See our [CONTRIBUTING](.github/CONTRIBUTING.md) document to get started.
